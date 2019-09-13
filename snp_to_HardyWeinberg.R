@@ -1,5 +1,5 @@
 # set the working directory
-setwd("~/GitHub/Hardy-weinberg/ToGitHub/")
+setwd("~/set/your/working/directory")
 
 # upload required package
 library(stringr)
