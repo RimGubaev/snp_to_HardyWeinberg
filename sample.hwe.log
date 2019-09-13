@@ -1,0 +1,13 @@
+
+VCFtools - v0.1.13
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf sample.vcf
+	--hardy
+	--out sample.hwe
+
+After filtering, kept 50 out of 50 Individuals
+Outputting HWE statistics (but only for biallelic loci)
+After filtering, kept 1000 out of a possible 1000 Sites
+Run Time = 0.00 seconds
