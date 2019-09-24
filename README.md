@@ -1,2 +1,2 @@
 # snp_to_HardyWeinberg
-This a script for
+The script snp_to_HardyWeinberg.R allows 
