@@ -12,4 +12,7 @@ The using the table obtained by vcftools script produces the following picture:
 
 ![](https://raw.githubusercontent.com/RimGubaev/snp_to_HardyWeinberg/master/Hardy-Weinberg.png)
 
-Where A is a dot plot representing a observed and theoretical genotype frequencies. And B corresponds to a histogram obtained form Chi-Square goodenes of fit test 
+Panel A is a dotplot representing a observed and theoretical genotype frequencies. Lines correspond to theoretical genotype frequencies, dots correspond to observed genotype frequencies.
+Panel B corresponds to a histogram of p-values obtained form Chi-Square goodenes of fit test. Red threshold indicated the 
+
+Email: rimgubaev@gmail.com
